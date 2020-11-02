@@ -1,0 +1,8 @@
+{
+    "CLIENT_ID":"770229065960652802",
+    "CLIENT_SECRET":"lem9hzYmUVTbk52if6WDae94blKNdn0b",
+    "CLIENT_REDIRECT":"/auth/discord/callback ",
+    "DISCORDJS_BOT_TOKEN":"NzcwMjI5MDY1OTYwNjUyODAy.X5ahtw.7CfpjZAfqK-kJ64kFU3IuxvQbIo",
+    "API_END_POINT":"http://localhost:3000",
+    "API_END_POINT_PROXY":"http://localhost:5000"
+}

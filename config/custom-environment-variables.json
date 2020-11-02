@@ -1,0 +1,8 @@
+{
+    "CLIENT_ID":"client_id",
+    "CLIENT_SECRET":"client_secret",
+    "CLIENT_REDIRECT":"client_redirect",
+    "DISCORDJS_BOT_TOKEN":"discordJsBot_Token",
+    "API_END_POINT":"apiEndPoint",
+    "API_END_POINT_PROXY":"apiEndPointProxy"
+}
